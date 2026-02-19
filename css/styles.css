@@ -11415,4 +11415,33 @@ section#contact form#contactForm :-ms-input-placeholder {
             border-radius: 4px;
           }
         }
+
+          @media (max-width: 768px) {
+          .navbar-brand-resp {
+            padding: 12px 10px;
+            font-size: 18px;
+            border-radius: 4px;
+          }
+        }
+
+        @media (max-width: 576px) {
+          .navbar-brand-resp {
+            padding: 10px 8px;
+            font-size: 16px;
+            border-radius: 4px;
+          }
+        }
+
+        @media (max-width: 576px) {
+          .container-resp {
+            justify-content: center !important;
+          }
+        }
+
+                @media (max-width: 768px) {
+          .container-resp {
+            justify-content: center !important;
+          }
+        }
+        
         
